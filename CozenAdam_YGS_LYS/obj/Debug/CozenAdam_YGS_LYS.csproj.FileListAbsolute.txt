@@ -1,0 +1,9 @@
+c:\users\onurgule\documents\visual studio 2013\Projects\CozenAdam_YGS_LYS\CozenAdam_YGS_LYS\bin\Debug\CozenAdam_YGS_LYS.exe
+c:\users\onurgule\documents\visual studio 2013\Projects\CozenAdam_YGS_LYS\CozenAdam_YGS_LYS\bin\Debug\CozenAdam_YGS_LYS.pdb
+c:\users\onurgule\documents\visual studio 2013\Projects\CozenAdam_YGS_LYS\CozenAdam_YGS_LYS\obj\Debug\CozenAdam_YGS_LYS.csprojResolveAssemblyReference.cache
+c:\users\onurgule\documents\visual studio 2013\Projects\CozenAdam_YGS_LYS\CozenAdam_YGS_LYS\obj\Debug\CozenAdam_YGS_LYS.Form1.resources
+c:\users\onurgule\documents\visual studio 2013\Projects\CozenAdam_YGS_LYS\CozenAdam_YGS_LYS\obj\Debug\CozenAdam_YGS_LYS.Properties.Resources.resources
+c:\users\onurgule\documents\visual studio 2013\Projects\CozenAdam_YGS_LYS\CozenAdam_YGS_LYS\obj\Debug\CozenAdam_YGS_LYS.csproj.GenerateResource.Cache
+c:\users\onurgule\documents\visual studio 2013\Projects\CozenAdam_YGS_LYS\CozenAdam_YGS_LYS\obj\Debug\CozenAdam_YGS_LYS.exe
+c:\users\onurgule\documents\visual studio 2013\Projects\CozenAdam_YGS_LYS\CozenAdam_YGS_LYS\obj\Debug\CozenAdam_YGS_LYS.pdb
+c:\users\onurgule\documents\visual studio 2013\Projects\CozenAdam_YGS_LYS\CozenAdam_YGS_LYS\bin\Debug\CozenAdam_YGS_LYS.exe.config
